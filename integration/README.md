@@ -1,5 +1,7 @@
 # ad-reference::integration
+This page contains practical and theoretical reference for integration.
+
 <ul>
-  <li><a href="http://www.cvlibs.net/projects/autonomous_vision_survey/">Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art</a>
+  <li><a href="http://opendds.org/">OpenDDS</a>: A way of letting more than one process talk to each other.
 </ul>
   
